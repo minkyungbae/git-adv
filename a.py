@@ -2,6 +2,4 @@
 
 # secret_key = '1234'
 
-print("3트")
-
 print("4트")
